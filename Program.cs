@@ -4,6 +4,8 @@
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hejhej");
+
             Random rand = new Random();
             int sum = 0;
             Console.WriteLine("Välkommen till spelet 21");
