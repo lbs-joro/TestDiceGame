@@ -1,0 +1,15 @@
+C:\Users\johan.ronnas\Documents\programmering1Su24b\TestDiceGame\TestDiceGame\bin\Debug\net6.0\TestDiceGame.exe
+C:\Users\johan.ronnas\Documents\programmering1Su24b\TestDiceGame\TestDiceGame\bin\Debug\net6.0\TestDiceGame.deps.json
+C:\Users\johan.ronnas\Documents\programmering1Su24b\TestDiceGame\TestDiceGame\bin\Debug\net6.0\TestDiceGame.runtimeconfig.json
+C:\Users\johan.ronnas\Documents\programmering1Su24b\TestDiceGame\TestDiceGame\bin\Debug\net6.0\TestDiceGame.dll
+C:\Users\johan.ronnas\Documents\programmering1Su24b\TestDiceGame\TestDiceGame\bin\Debug\net6.0\TestDiceGame.pdb
+C:\Users\johan.ronnas\Documents\programmering1Su24b\TestDiceGame\TestDiceGame\obj\Debug\net6.0\TestDiceGame.csproj.AssemblyReference.cache
+C:\Users\johan.ronnas\Documents\programmering1Su24b\TestDiceGame\TestDiceGame\obj\Debug\net6.0\TestDiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan.ronnas\Documents\programmering1Su24b\TestDiceGame\TestDiceGame\obj\Debug\net6.0\TestDiceGame.AssemblyInfoInputs.cache
+C:\Users\johan.ronnas\Documents\programmering1Su24b\TestDiceGame\TestDiceGame\obj\Debug\net6.0\TestDiceGame.AssemblyInfo.cs
+C:\Users\johan.ronnas\Documents\programmering1Su24b\TestDiceGame\TestDiceGame\obj\Debug\net6.0\TestDiceGame.csproj.CoreCompileInputs.cache
+C:\Users\johan.ronnas\Documents\programmering1Su24b\TestDiceGame\TestDiceGame\obj\Debug\net6.0\TestDiceGame.dll
+C:\Users\johan.ronnas\Documents\programmering1Su24b\TestDiceGame\TestDiceGame\obj\Debug\net6.0\refint\TestDiceGame.dll
+C:\Users\johan.ronnas\Documents\programmering1Su24b\TestDiceGame\TestDiceGame\obj\Debug\net6.0\TestDiceGame.pdb
+C:\Users\johan.ronnas\Documents\programmering1Su24b\TestDiceGame\TestDiceGame\obj\Debug\net6.0\TestDiceGame.genruntimeconfig.cache
+C:\Users\johan.ronnas\Documents\programmering1Su24b\TestDiceGame\TestDiceGame\obj\Debug\net6.0\ref\TestDiceGame.dll
