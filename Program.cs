@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hejhej");
+            //hejhej
 
             Random rand = new Random();
             int sum = 0;
